@@ -15,3 +15,6 @@ This project features **Subsystem 4**, the final safety barrier designed to dete
 * **Microcontroller:** Arduino Uno
 * **Libraries:** `PyMata4`
 * **Hardware:** Ultrasonic Sensors (HC-SR04), Traffic LED Lights, Signal Conditioning Circuits
+
+## 📹 Video Demonstration
+https://drive.google.com/file/d/1utPES79Qy0iMGfAVXVf3s3SrNIzTad6s/view?usp=sharing
